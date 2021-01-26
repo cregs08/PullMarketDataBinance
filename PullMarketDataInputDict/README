@@ -1,0 +1,1 @@
+takes in inputs that correspond to the Binance API client.get_historical_klines(symbol, interval, start_str, end_str) method
